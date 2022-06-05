@@ -9,7 +9,11 @@ This project aims at developing a neural network using JavaScript with no librar
 
 ## Video Walkthrough
 
-Here's a walkthrough of self driving car with visual neural network illustration.
+Here's a walkthrough video thats shows how the model (car) was trained to make decision in the future as every best decision it makes i saved it in JSON file which acts as its memory for future reference when it faces the same scenerio.
+
+<img src='https://github.com/borismassesa/Self-Driving-Car/blob/main/Walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Here's a walkthrough video of well trained model and implementing self driving with visual neural network illustration next to it.
 
 <img src='https://github.com/borismassesa/Self-Driving-Car/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
