@@ -4,7 +4,7 @@ This project aims at developing a neural network using JavaScript with no librar
 ## The core features of this project includes:
 1. Implementation of car driving mechanics.
 2.  It defines the environment (Road, car traffic and Road borders).
-3.  It also simulates some  car sensors.
+3.  It simulates car sensor
 4.  And detects collisions, and makes the car to control itself using a neural network.
 
 ## Video Walkthrough
