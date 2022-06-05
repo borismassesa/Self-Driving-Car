@@ -6,3 +6,11 @@ This project aims at developing a neural network using JavaScript with no librar
 2.  It defines the environment.
 3.  It also simulates some  car sensors.
 4.   And detects collisions, and makes the car to control itself using a neural network.
+
+## Video Walkthrough
+
+Here's a walkthrough of self driving car with visual neural network illustration.
+
+<img src='https://github.com/borismassesa/Self-Driving-Car/blob/main/Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
